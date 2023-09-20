@@ -16,4 +16,4 @@ We gaan ons focussen op GIS en netwerk analyses in Python.
 Een bekend voorbeeld is de Afstand-tot-koelte kaart, waarbij we parkjes, panden, wegen en voetpaden koppelen in 1 netwerk. Met een netwerkanalyse kunnen we de kortste (of snelste) wandelroute vinden naar een koele plek. Een ander voorbeeld is de SewerageDesigner, waarbij we een lijnennetwerk creeeren van leidingen. Op basis van een piekbui-intensiteit en (geautomatiseerde) sommetjes kunnen we een schetsontwerp aanleveren van het rioolstelsel met minimaal benodigde diameters en aanlegdieptes.
 
 ![SewerageDesigner](res/SewerageDesigner.png)
-![Afstand-tot-koelte](res/Afstand-tot-koelte.png)
+![Afstand-tot-koelte](res/Afstand-tot-Koelte.png)
