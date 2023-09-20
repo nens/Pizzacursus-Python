@@ -1,0 +1,16 @@
+python>=3.8
+osgeo
+json
+pathlib
+time
+datetime
+logging
+pandas
+geopandas
+shapely
+datetime
+logging
+pickle
+tqdm
+numpy
+re
