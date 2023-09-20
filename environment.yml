@@ -2,18 +2,9 @@ name: netwerk-env
 channels:
   - conda-forge
 dependencies:
-  - osgeo
-  - json
   - pathlib
-  - time
-  - datetime
-  - logging
   - pandas
   - geopandas
   - shapely
-  - datetime
-  - logging
-  - pickle
   - tqdm
   - numpy
-  - re
