@@ -5,6 +5,8 @@ This repository is used to store code material for NenS pizzacursussen (pizza co
 This folder contains Jupyter notebooks and an enviroment configuration. Using Binder we can open these notebooks in an executable environment, making the code immediately reproducible by anyone.
 
 ## Pizzacursus netwerk en GEO-analyses in Python
+Klik op onderstaande "binder badge" om de binder op te starten en te beginnen aan de cursus.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nens/Pizzacursus-Python/HEAD)
 
 Als adviseurs rekenen we nogal wat door. Veel van onze adviezen komen voort uit het gebruik van onze eigen tooling. Deze tools zijn soms gebouwd door adviseurs die hier niet meer werken. Weten we eigenlijk wel hoe (goed) deze tools werken? Zijn ze uitgebreid getest? Wat zijn de limitaties? Wie onderhoud de tools?
